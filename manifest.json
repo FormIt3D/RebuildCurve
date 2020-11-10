@@ -1,0 +1,11 @@
+{
+    "PluginName": "Rebuild + Explode Curve",
+    "PluginDescription": "Rebuild the selected curve with a custom faceting count, or explode the curve into its constituent segments.",
+    "PluginType": "Panel",
+    "Scripts": [
+        "PLUGINLOCATION/RebuildCurve.js",
+        "https://formit3d.github.io/FormItWorkflowPlugins/Utils.js"
+    ]
+    ,"Panel": "PLUGINLOCATION/index.html",
+    "PanelIcon": "PLUGINLOCATION/img/rebuild_explode_curve@2x.png"
+}
